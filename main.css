@@ -228,7 +228,7 @@ button#activate.pushed {
 }
 
 div#panel:before {
-	content: "DO YOU LOVE ME";
+	content: "bạn thích tôi không";
 	top: 3vmin;
 	position: relative;
 	font-size: 8vmin;
@@ -284,7 +284,7 @@ div#panel:before {
 }
 
 div#panel2::before {
-    content: "WARNING";
+    content: "sai rồi thật lòng đi";
 	top: 3vmin;
 	position: relative;
 	font-size: 10vmin;
